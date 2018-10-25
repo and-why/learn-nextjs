@@ -94,9 +94,9 @@ module.exports =
 /******/ ({
 
 /***/ "./node_modules/next/dist/pages/_app.js":
-/*!*************************************************************************************!*\
-  !*** C:/Users/asmith/Documents/Dev/next-learn/node_modules/next/dist/pages/_app.js ***!
-  \*************************************************************************************/
+/*!**********************************************!*\
+  !*** ./node_modules/next/dist/pages/_app.js ***!
+  \**********************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -106,13 +106,13 @@ module.exports = __webpack_require__(/*! next/app */ "next/app")
 /***/ }),
 
 /***/ 0:
-/*!*******************************************************************************************!*\
-  !*** multi C:/Users/asmith/Documents/Dev/next-learn/node_modules/next/dist/pages/_app.js ***!
-  \*******************************************************************************************/
+/*!****************************************************!*\
+  !*** multi ./node_modules/next/dist/pages/_app.js ***!
+  \****************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\asmith\Documents\Dev\next-learn\node_modules\next\dist\pages\_app.js */"./node_modules/next/dist/pages/_app.js");
+module.exports = __webpack_require__(/*! C:\users\asmith\documents\dev\next-learn\node_modules\next\dist\pages\_app.js */"./node_modules/next/dist/pages/_app.js");
 
 
 /***/ }),
